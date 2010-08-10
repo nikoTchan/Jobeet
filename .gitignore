@@ -2,5 +2,5 @@
 /.project
 /.buildpath
 /nbproject
-/cache
-/log
+/cache/*
+/log/*
